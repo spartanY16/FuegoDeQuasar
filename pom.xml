@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fueagodequasar.service</groupId>
-	<artifactId>FueagoDeQuasar</artifactId>
+	<artifactId>FuegoDeQuasar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FueagoDeQuasar</name>
 	<description>Prueba de conocimientos realizada para la entidad Mercado Libre</description>
